@@ -65,7 +65,7 @@ e.example.com → IR_SERVER_IP
 ### 1️⃣ IR Server (FRPS)
 
 
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/frpTunnel/main/server-ir.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mehdi484/frpTunnel/main/server-ir.sh | bash
 2️⃣ Foreign Server (FRPC)
 Edit IR server IP:
 
